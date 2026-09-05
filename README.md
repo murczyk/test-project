@@ -7,3 +7,6 @@
 Це третя зміна у моєму проєкті.
 
 Main branch change
+
+Rebase experiment - change 1
+
